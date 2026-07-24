@@ -2,7 +2,7 @@
 
 Eaglercraft developer — I ported Minecraft 1.16.5 to the browser using TeaVM. I specialize in Java.
 
-🎮 Minecraft 1.16.5 Browser Port Discord: dsc.gg/eagler16 📺 YouTube: @acorndevv
+🎮 Minecraft 1.16.5 Browser Port Discord: https://dsc.gg/eagler16 📺 YouTube: [@acorndevv](https://www.youtube.com/@acorndevv)
 <img data-importer="image" align="right" height="150" src="acorndev-pfp.png" />
 <div data-importer="techs" align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /> </div>
 <div data-importer="socials" align="left"> <a href="https://www.youtube.com/@acorndevv"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a> <a href="https://dsc.gg/eagler16"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a> </div>
