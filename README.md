@@ -1,8 +1,11 @@
-<img align="right" height="150" src="acorndev-pfp.png" alt="pfp" />
+<div align="right">
+  <img height="150" src="acorndev-pfp.png" alt="pfp" />
+  <img height="150" src="https://mc-heads.net/avatar/AcornDev/150" alt="minecraft skin" />
+</div>
 
 ### hii, i'm AcornDev 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4C9426&center=false&vCenter=true&width=440&lines=Minecraft+1.16.5+in+your+browser;No+launcher.+No+Java.+Just+a+link.;Java+by+day%2C+TeaVM+by+night.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=4C9426&center=false&vCenter=true&width=500&lines=Minecraft+1.16.5+in+your+browser;No+launcher.+No+Java.+Just+a+link.;Java+by+day%2C+TeaVM+by+night.)](https://git.io/typing-svg)
 
 ## 🔗 find me
 
@@ -13,6 +16,7 @@ I ported **Minecraft 1.16.5** to run 100% in the browser using TeaVM — no inst
 
 <a href="https://techyako.github.io/Eaglercraft-1.16.5/"><img src="https://img.shields.io/badge/▶-Play_Eaglercraft_1.16.5-4c9426?style=for-the-badge" alt="Play Now" /></a>
 <a href="https://dsc.gg/eagler16"><img src="https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge" alt="Discord" /></a>
+
 <br clear="both">
 
 ## 🔨 what i'm building
