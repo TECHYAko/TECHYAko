@@ -1,6 +1,5 @@
 <div align="right">
   <img height="150" src="acorndev-pfp.png" alt="pfp" />
-  <img height="150" src="https://mc-heads.net/avatar/AcornDev/150" alt="minecraft skin" />
 </div>
 
 ### hii, i'm AcornDev 👋
