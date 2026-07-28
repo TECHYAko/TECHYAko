@@ -1,7 +1,3 @@
-<div align="right">
-  <img height="150" src="acorndev-pfp.png" alt="pfp" />
-</div>
-
 ### hii, i'm AcornDev 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=4C9426&center=false&vCenter=true&width=500&lines=Minecraft+1.16.5+in+your+browser;No+launcher.+No+Java.+Just+a+link.;Java+by+day%2C+TeaVM+by+night.)](https://git.io/typing-svg)
