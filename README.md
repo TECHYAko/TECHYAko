@@ -1,1 +1,1 @@
-2D Indie Game Developer
+Software and Game Developer
